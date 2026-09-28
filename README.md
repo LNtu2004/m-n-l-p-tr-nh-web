@@ -21,12 +21,20 @@ Vì máy tính mình sài chip AMD Ryzen nên mình chọn tải Windows – AMD
 
 <img width="1583" height="898" alt="Ảnh chụp màn hình 2026-09-28 221301" src="https://github.com/user-attachments/assets/c6518873-d034-4ef6-99bf-7e075d3d56e7" />
 
-Bây giờ mình sẽ tạo một thư mục bài tập và tạo file docker-compose.yml:
+À mình quên mất là khi bạn cài WSL xong nó bắt bạn cài tk và mk đó nha 
+<img width="1474" height="561" alt="Ảnh chụp màn hình 2026-09-28 215012" src="https://github.com/user-attachments/assets/6d6d2ec1-0b25-4280-9810-1c94d5199959" />
+
+Sau khi tạo tk và mk xong thì nó sẽ hiễn dòng chữ màu xanh lá tức là bạn đã vào ubutu thành công nhé 
+2. Bây giờ mình sẽ tạo một thư mục bài tập và tạo file docker-compose.yml:
 " cd /mnt/d
 mkdir baitap && cd baitap
 nano docker-compose.yml " 
-Lệnh này nó giúp mình tạo 1 thư mục tên là baitap vào ổ D để quản lý bài tập dễ hơn.
+Lệnh này nó giúp mình tạo 1 thư mục tên là baitap vào ổ D để quản lý bài tập dễ hơn. ( xem hình giống vậy là được )
 
-À mình quên mất là khi bạn cài WSL xong nó bắt bạn cài tk và mk đó nha 
-<img width="1474" height="561" alt="Ảnh chụp màn hình 2026-09-28 215012" src="https://github.com/user-attachments/assets/6d6d2ec1-0b25-4280-9810-1c94d5199959" />
+<img width="1919" height="1014" alt="Ảnh chụp màn hình 2026-09-28 225726" src="https://github.com/user-attachments/assets/d9f9a8d4-20a2-4f91-85c4-a458ebc87b24" />
+<img width="1919" height="1014" alt="Ảnh chụp màn hình 2026-09-28 223651" src="https://github.com/user-attachments/assets/17370791-96c8-41cc-8593-65e0366e2fc6" />
+
+3. Cần domain xịn thì mình đăng ký tại pa vietnam nhé hoặc các bạn vô " https://www.pavietnam.vn/vn/ten-mien-mien-phi.html?utm_source=banner-idvn&utm_medium=header-right&utm_campaign=ten-mien-id-mien-phi-home-page " cái này lun cũng được.
+
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/c816ef9a-f4f3-4780-9eeb-b9a73fef6679" />
 
