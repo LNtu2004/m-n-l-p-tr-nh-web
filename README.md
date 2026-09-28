@@ -17,7 +17,9 @@ Link : " https://www.docker.com/products/docker-desktop/?utm_source=gemini "
 Ở đây có rất nhiều bản bạn xem máy tính mình sài chip gì thì tải cho phù hợp máy nhé 
 <img width="591" height="491" alt="Ảnh chụp màn hình 2026-09-28 215334" src="https://github.com/user-attachments/assets/ad220f3c-0cbc-4796-b20d-bcb77c83df99" />
 
-Vì máy tính mình sài chip AMD Ryzen nên mình chọn tải Windows – AMD64
+Vì máy tính mình sài chip AMD Ryzen nên mình chọn tải Windows – AMD64 ( khoảng 600mb )và giao diện khi cài xong
+
+<img width="1583" height="898" alt="Ảnh chụp màn hình 2026-09-28 221301" src="https://github.com/user-attachments/assets/c6518873-d034-4ef6-99bf-7e075d3d56e7" />
 
 Bây giờ mình sẽ tạo một thư mục bài tập và tạo file docker-compose.yml:
 " cd /mnt/d
