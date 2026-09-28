@@ -38,3 +38,17 @@ Lệnh này nó giúp mình tạo 1 thư mục tên là baitap vào ổ D để 
 
 <img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/c816ef9a-f4f3-4780-9eeb-b9a73fef6679" />
 
+Sau khi đăng ký xong bạn vứt nó vô clouflare là được và nhớ phải cấu hình DNS đó nha.Xong hết rồi thì hiện ra như này là ok 
+
+<img width="1861" height="821" alt="Ảnh chụp màn hình 2026-09-28 203716" src="https://github.com/user-attachments/assets/cf417331-276c-4cb1-95fb-ecac2231f2d3" />
+
+Giờ vào zero trust chọn Networking rồi chọn tunnels nhấn vô creat router 
+
+<img width="1854" height="875" alt="Ảnh chụp màn hình 2026-09-28 205436" src="https://github.com/user-attachments/assets/28e87eac-2d47-4de3-a099-85b44b99f830" />
+<img width="1032" height="802" alt="Ảnh chụp màn hình 2026-09-28 205652" src="https://github.com/user-attachments/assets/02443dc5-eac2-4d6c-9c32-3e85eee15936" />
+
+Cái chỗ " ngoctu123 " là phần điền tên bạn thích điền tên gì vào cũng được.
+
+<img width="836" height="724" alt="image" src="https://github.com/user-attachments/assets/e7e50b4e-51b0-4790-b069-56716f7cdb9b" />
+
+Còn đây là phần add router cái chữ " kmt " là phần đứng trước tên miền của bạn bạn có thể ghi tên gì cũng dc hoặc không ghi cũng được.Đặc biệt là phần URL là cái phần mà clouflare nó quản lý và cho phép mình vào dưới dạng index.
