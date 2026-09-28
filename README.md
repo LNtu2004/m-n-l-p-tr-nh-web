@@ -18,11 +18,13 @@ Link : " https://www.docker.com/products/docker-desktop/?utm_source=gemini "
 <img width="591" height="491" alt="Ảnh chụp màn hình 2026-09-28 215334" src="https://github.com/user-attachments/assets/ad220f3c-0cbc-4796-b20d-bcb77c83df99" />
 
 Vì máy tính mình sài chip AMD Ryzen nên mình chọn tải Windows – AMD64
+
 Bây giờ mình sẽ tạo một thư mục bài tập và tạo file docker-compose.yml:
 " cd /mnt/d
 mkdir baitap && cd baitap
 nano docker-compose.yml " 
 Lệnh này nó giúp mình tạo 1 thư mục tên là baitap vào ổ D để quản lý bài tập dễ hơn.
+
 À mình quên mất là khi bạn cài WSL xong nó bắt bạn cài tk và mk đó nha 
 <img width="1474" height="561" alt="Ảnh chụp màn hình 2026-09-28 215012" src="https://github.com/user-attachments/assets/6d6d2ec1-0b25-4280-9810-1c94d5199959" />
 
