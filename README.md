@@ -51,4 +51,16 @@ Cái chỗ " ngoctu123 " là phần điền tên bạn thích điền tên gì v
 
 <img width="836" height="724" alt="image" src="https://github.com/user-attachments/assets/e7e50b4e-51b0-4790-b069-56716f7cdb9b" />
 
-Còn đây là phần add router cái chữ " kmt " là phần đứng trước tên miền của bạn bạn có thể ghi tên gì cũng dc hoặc không ghi cũng được.Đặc biệt là phần URL là cái phần mà clouflare nó quản lý và cho phép mình vào dưới dạng index.
+Còn đây là phần add router cái chữ " kmt " là phần đứng trước tên miền của bạn bạn có thể ghi tên gì cũng dc hoặc không ghi cũng được.Đặc biệt là phần URL là cái phần mà clouflare nó quản lý và cho phép mình vào dưới dạng index.php
+
+<img width="1865" height="889" alt="image" src="https://github.com/user-attachments/assets/56bcd839-670f-4954-a62a-eada5a205199" />
+
+4.Cấu hình 
+Ta dùng lệnh " nano docker-compose.yml " để cấu hình
+<img width="998" height="50" alt="image" src="https://github.com/user-attachments/assets/2460f574-5b5a-4950-be99-9adb0e86c85f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab78d554-4bf5-4706-b781-97beb041787a" />
+
+Sau đó dùng lệnh " docker compose up -d " để update lại nó.Vì nó xảy ra lỗi nên mình sài lệnh " sudo docker compose up -d " 
+
+<img width="1911" height="782" alt="Ảnh chụp màn hình 2026-09-28 231841" src="https://github.com/user-attachments/assets/3493e913-64ec-490e-be85-a95449976e7a" />
+
